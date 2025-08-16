@@ -19,9 +19,9 @@
 
 - updates the look dynamically when button clicked.
 
-- $ \sqrt{x} $, $x!$, $log(x)$, $ \pi$,
+- $\sqrt{x}$, $x!$, $log(x)$, $\pi$,
 
-- brackets, $e$, $ x\sqrt{y}$
+- brackets, $e$, $x\sqrt{y}$
 
 - Trignometric functions
 
