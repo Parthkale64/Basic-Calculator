@@ -14,3 +14,14 @@
    git clone https://github.com/Parthkale64/Basic-Calculator.git
    ```
 2. Open the `index.html` file in your preferred browser.
+
+## Branch -> Scientific Calculator:
+
+- updates the look dynamically when button clicked.
+
+- $ \sqrt{x} $, $x!$, $log(x)$, $ \pi$,
+
+- brackets, $e$, $ x\sqrt{y}$
+
+- Trignometric functions
+
